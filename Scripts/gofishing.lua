@@ -1,6 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 
-local Window = Library.CreateLib("Lazur Hub - Go Fishing", "Midnight")
+local Window = Library.CreateLib("Lazur Hub - Go Fishing", "LightTheme")
 
 local Tab = Window:NewTab("Main")
 local Tab1 = Window:NewTab("Teleport")
