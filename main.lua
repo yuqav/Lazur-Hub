@@ -1,7 +1,7 @@
-local githubURL = ""
+local githubURL = "https://raw.githubusercontent.com/yuqav/Lazur-Hub/refs/heads/main/Scripts/"
 
 local scripts = {
- [] = ""
+ [116605585218149] = "gofishing.lua"
 }
 
 local placeId = game.PlaceId
